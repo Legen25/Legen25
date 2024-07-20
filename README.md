@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Trung Nguyên Nguyễn
 - 🌱 I’m currently learning Software Egineering at FPT University
 - 📫 How to reach me :  ntnguyen72vt@gmail.com
+- ⚡ Fun fact:  I have a hobby of creating content
  
 
 <!---
