@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trung Nguyên Nguyễn
-- 🌱 I’m currently learning Software Egineer at FPT University
+- 🌱 I’m currently learning Software Egineering at FPT University
 - 📫 How to reach me : https://www.facebook.com/profile.php?id=100024501316294
  
 
