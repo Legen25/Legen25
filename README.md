@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hi, I’m Trung Nguyên Nguyễn
-🌱 I’m currently learning Software Egineering at FPT University
-📫 How to reach me : ntnguyen72vt@gmail.com
-⚡ Fun fact: I have a hobby of creating content
+- 👋 Hi, I’m Trung Nguyên Nguyễn
+- 🌱 I’m currently learning Software Egineering at FPT University
+- 📫 How to reach me : ntnguyen72vt@gmail.com
+- ⚡ Fun fact: I have a hobby of creating content
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/864515156485341204) 
