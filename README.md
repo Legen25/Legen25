@@ -15,7 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Legen25&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Legen25&theme=gruvbox&hide_border=true)<br/>
 
-#![image](https://github.com/user-attachments/assets/2b7c154a-90ea-4661-b718-2524eca615fe)
+# ![scholarship](https://github.com/user-attachments/assets/e48d4986-9a3c-4e1e-96d2-7a885370d37b)
+
  Certificate :
 ---
  
