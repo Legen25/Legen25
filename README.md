@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Trung Nguyên Nguyễn
 - 🌱 I’m currently learning Software Egineering at FPT University
 - 📫 How to reach me : ntnguyen72vt@gmail.com
-- ⚡ Fun fact: I have a hobby of creating content
+- ⚡ Fun fact: I have a hobby of creating content, music
 
 [![](https://visitcount.itsvg.in/api?id=Legen25&icon=0&color=0)](https://visitcount.itsvg.in)
 
