@@ -16,16 +16,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Legen25&theme=gruvbox&hide_border=true)<br/>
 
 # :crown: Certificate :
-- Java Enterprise Edition of LearnQuest  
-👉 https://coursera.org/share/ffc4d3486f729365ee78d2077271e791
-- Software Development Lifecycle of University of Minnesota  
-👉 https://coursera.org/share/f0ae5f2e21649e50dc3e59faf0c02f49
-- Web Design for Everybody: Basics of Web Development & Coding of University of Michigan  
-👉 https://coursera.org/share/d90ea6f3eef5c5799ab434901dc7107c
-- Computer Communications of University of Colorado System 
-👉 https://coursera.org/share/7114b4a3206a4bb2a2c4193cc118e009
-- Academic Skills for University Success of The University of Sydney 
-👉 https://coursera.org/share/5e05431e7d301921545249e57b868b69
+- Java Enterprise Edition of LearnQuest
+  👉 https://coursera.org/share/ffc4d3486f729365ee78d2077271e791
+- Software Development Lifecycle of University of Minnesota
+  👉 https://coursera.org/share/f0ae5f2e21649e50dc3e59faf0c02f49
+- Web Design for Everybody: Basics of Web Development & Coding of University of Michigan
+  👉 https://coursera.org/share/d90ea6f3eef5c5799ab434901dc7107c
+- Computer Communications of University of Colorado System
+  👉 https://coursera.org/share/7114b4a3206a4bb2a2c4193cc118e009
+- Academic Skills for University Success of The University of Sydney
+  👉 https://coursera.org/share/5e05431e7d301921545249e57b868b69
  
 ---
  
