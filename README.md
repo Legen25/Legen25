@@ -25,7 +25,7 @@
 - Computer Communications of University of Colorado System
   👉 https://coursera.org/share/7114b4a3206a4bb2a2c4193cc118e009
 - Academic Skills for University Success of The University of Sydney
-  👉 https://coursera.org/share/5e05431e7d301921545249e57b868b69
+  👉https://coursera.org/share/5e05431e7d301921545249e57b868b69
  
 ---
  
